@@ -1,0 +1,6 @@
+{
+  "name": "Sports Business Technology Command Center",
+  "description": "Enterprise-grade executive operating system and intelligence command center for sports business, venture capital, football scouting networks, CRM, and AI workforce acceleration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
